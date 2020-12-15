@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6194d2ef-34db-410d-bb54-b11a0aa6b9d7" name="Default Changelist" comment="" />
+    <list default="true" id="6194d2ef-34db-410d-bb54-b11a0aa6b9d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/js/helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/questions/Question.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/questions/SubQuestion.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/QuestionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/QuestionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/main.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,11 +31,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="composer.json" />
+        <option value="JavaScript File" />
         <option value="Vue Single File Component" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -134,6 +151,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ldkUBLZpLoFXMSrXVITHGWmDLZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -160,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607934368622</updated>
-      <workItem from="1607934370310" duration="7263000" />
+      <workItem from="1607934370310" duration="33388000" />
     </task>
     <servers />
   </component>

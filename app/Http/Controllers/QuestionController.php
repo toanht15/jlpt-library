@@ -39,7 +39,9 @@ class QuestionController extends Controller
         $newQuestion->level = $request->question["level"];
         $newQuestion->skill = $request->question["skill"];
         $newQuestion->type = $request->question["type"];
+        $newQuestion->title = $request->question["title"];
         $newQuestion->content = $request->question["content"];
+        $newQuestion->list_questions = json_encode($request->question["list_questions"]);
         $newQuestion->save();
 
         return $newQuestion;
